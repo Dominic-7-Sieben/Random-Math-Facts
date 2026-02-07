@@ -259,7 +259,7 @@ int main()
 	std::this_thread::sleep_for(std::chrono::milliseconds(1000));
 	std::cout << "Mastery Calculation (lower is better): " << MasteryCalculation << "\n";
 	if (MasteryCalculation < 10.0f) {
-		std::cout << "A Rayman Legend! Exceptional Performance!\n";
+		std::cout << "A Legendary Legend! Exceptional Performance!\n";
 	}
 	else if (MasteryCalculation < 30.0f) {
 		std::cout << "Incomparable performance!\n";
