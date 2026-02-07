@@ -109,5 +109,5 @@ So a whole round with 10 addition questions set at level 1 looks like this:
 	Mastery Calculation (lower is better): 20.73
 	Incomparable performance!
 
-C:\Users\dcsie\source\repos\Random Math Facts\x64\Debug\Random Math Facts.exe (process 18760) exited with code 0 (0x0).
-Press any key to close this window . . .
+	C:\Users\dcsie\source\repos\Random Math Facts\x64\Debug\Random Math Facts.exe (process 18760) exited with code 0 (0x0).
+	Press any key to close this window . . .
